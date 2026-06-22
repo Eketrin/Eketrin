@@ -29,7 +29,7 @@
 ---
 
 ### 📚 Online courses I have completed:
-[![Git and GitHub Basics](https://img.shields.io/badge/Git_and_GitHub_Basics-007ec6?style=flat&logo=git&logoColor=white)](https://stepik.org/cert/3283112?lang=en) 
+[![Git and GitHub Basics](https://img.shields.io/badge/Git_and_GitHub_Basics-007ec6?style=flat&logo=git&logoColor=white)](https://stepik.org/cert/3285412) 
 [![Postman Ninja: From Zero to Auto-Tests](https://img.shields.io/badge/Postman_Ninja-ff6f00?style=flat&logo=postman&logoColor=white)](https://stepik.org/cert/3274939) 
 [![Software Testing: Postman for API Testing](https://img.shields.io/badge/Software_Testing_Postman_for_API-4caf50?style=flat&logo=postman&logoColor=white)](https://stepik.org/cert/3273835) 
 [![Generation Python: Course for Beginners](https://img.shields.io/badge/Generation_Python-ffd700?style=flat&logo=python&logoColor=black)](https://stepik.org/cert/2145226)
