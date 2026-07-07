@@ -39,4 +39,5 @@
 [![Postman Ninja: From Zero to Auto-Tests](https://img.shields.io/badge/Postman_Ninja-FF7F00?style=flat&logo=postman&logoColor=white)](https://stepik.org/cert/3274939?lang=en) 
 [![Software Testing: Postman for API Testing](https://img.shields.io/badge/Software_Testing_Postman_for_API-FFFF00?style=flat&logo=postman&logoColor=black)](https://stepik.org/cert/3273835?lang=en) 
 [![Generation Python: Course for Beginners](https://img.shields.io/badge/Generation_Python-aaff00?style=flat&logo=python&logoColor=black)](https://stepik.org/cert/2145226?lang=en) 
-[![Immersion in JavaScript for Beginners](https://img.shields.io/badge/Immersion_in_JavaScript-008bee?style=flat&logo=javascript&logoColor=white)](https://stepik.org/cert/3295398?lang=en)
+[![Immersion in JavaScript for Beginners](https://img.shields.io/badge/Immersion_in_JavaScript_1-008bee?style=flat&logo=javascript&logoColor=white)](https://stepik.org/cert/3295398?lang=en)
+[![Immersion in JavaScript for those who cpntinue](https://img.shields.io/badge/Immersion_in_JavaScript_2-3333ff?style=flat&logo=javascript&logoColor=white)](https://stepik.org/cert/3298517?lang=en)
